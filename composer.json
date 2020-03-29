@@ -25,10 +25,10 @@
         "laravel": {
             "providers": [
                 "Ariefadjie\\BangunRuang\\Providers\\BangunRuangServiceProvider"
-            ]
-        },
-        "aliases": {
-            "PersegiPanjang": "Ariefadjie\\BangunRuang\\Facades\\PersegiPanjang"
+            ],
+            "aliases": {
+                "PersegiPanjang": "Ariefadjie\\BangunRuang\\Facades\\PersegiPanjang"
+            }
         }
     }
 }
